@@ -1,0 +1,9 @@
+START_IOT_AP_List_Apple->15.15.113.7
+
+AP_Vendor_Name  : Apple
+AP_Model_Number : Xtreame
+AP_IP_Address   : 15.15.113.7
+AP_Config_Tool  : HTTP
+
+END_IOT_AP_List_Apple->15.15.113.7
+

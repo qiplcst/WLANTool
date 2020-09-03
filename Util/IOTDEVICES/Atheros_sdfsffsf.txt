@@ -1,0 +1,9 @@
+START_IOT_AP_List_Atheros->15.15.113.1
+
+AP_Vendor_Name  : Atheros
+AP_Model_Number : sdfsffsf
+AP_IP_Address   : 15.15.113.1
+AP_Config_Tool  : HTTP
+
+END_IOT_AP_List_Atheros->15.15.113.1
+

@@ -1,0 +1,9 @@
+START_IOT_AP_List_Cisco->15.15.113.4
+
+AP_Vendor_Name  : Cisco
+AP_Model_Number : 1252
+AP_IP_Address   : 15.15.113.4
+AP_Config_Tool  : Telnet
+
+END_IOT_AP_List_Cisco->15.15.113.4
+

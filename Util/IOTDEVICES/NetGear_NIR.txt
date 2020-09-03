@@ -1,0 +1,9 @@
+START_IOT_AP_List_NetGear->15.15.113.6
+
+AP_Vendor_Name  : NetGear
+AP_Model_Number : NIR
+AP_IP_Address   : 15.15.113.6
+AP_Config_Tool  : HTTP
+
+END_IOT_AP_List_NetGear->15.15.113.6
+
