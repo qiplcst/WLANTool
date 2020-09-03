@@ -1,0 +1,26 @@
+
+MAC Address :00:0a:f5:87:7b:8b
+SSID : $$$_TP-Link_2.4
+BSSID : c4:6e:1f:08:ce:4f
+
+TESTCASE NAME                         	RESULT	COMMENTS	
+
+STA Interface mode                    	PASS	Interface id is 0	
+Check Interface STATS                 	PASS	All are Positive Integer	
+Check on nonzero channel for radio 0  	PASS	Non Zero value found in bitmap in radio 0	
+Check on nonzero channel for radio 1  	PASS	Non Zero value found in bitmap in radio 1	
+Check bitrate and txmpdu              	PASS	txmpdu for nonzero bitrate is not zero	
+Check radio 0 STATS                   	PASS	tx_time, rx_time and on_time_scan values are lesser than on_time	
+Check radio 1 STATS                   	PASS	tx_time, rx_time and on_time_scan values are lesser than on_time	
+Check WMM STATS for RX/TX Traffic     	PASS	All are Positive Integer	
+Check cca_busy_time for radio 0       	PASS	cca_busy_time is lesser than on_time	
+Check cca_busy_time for radio 1       	PASS	cca_busy_time is lesser than on_time	
+Check Unique channel count for radio 0	PASS	26 different channels count is correct	
+Check Unique channel count for radio 1	PASS	0 different channels count is correct	
+Master check on_time for radio 0      	PASS	Total ONTIME check is pass	
+Master check on_time for radio 1      	PASS	Total ONTIME check is pass	
+Check total radio count               	PASS	Total numbers of radio are 2	
+Check state during associated state   	PASS	State is 3 during associated state	
+Check scan stats for radio 0          	PASS	on_time_scan values is greator or equal than sum of other scan time	
+Check scan stats for radio 1          	PASS	on_time_scan values is greator or equal than sum of other scan time	
+Check duration during associated state	PASS	Connected and Disconnection durations are greator than zero during STATE 3	
